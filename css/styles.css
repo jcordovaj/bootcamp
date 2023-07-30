@@ -7,7 +7,7 @@ Author URL: http://webthemez.com
 *******Typography******
 **************************/
 body {
-  padding-top: 120px;
+  padding-top: 100px;
   background: #fff;
   font-family: 'Raleway', sans-serif;
   font-weight: 400;
@@ -274,7 +274,7 @@ background: #343434;
 } 
  
 #hero-text {
-  padding: 70px 0;
+  padding: 50px 0;
   border-top: 1px solid #FFFFFF;
   background: #085C98;
   color: #F4F4F4;
